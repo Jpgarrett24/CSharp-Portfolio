@@ -1,0 +1,70 @@
+body{
+    background-color: #fffff0;
+    text-align: center;
+}
+section{
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+}
+.profile{
+    width: 20%;
+}
+.projects{
+    width: 75%;
+    background-color: #f0fff0;
+}
+div{
+    width: 70%;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 50px;
+}
+.projectImage{
+    width: 20%;
+    margin-top: 50px;
+}
+h5{
+    display: inline-block;
+    width: 70%;
+    vertical-align: top;
+}
+span{
+    display: inline-block;
+    width: 70%;
+    vertical-align: top;
+}
+form{
+    display: inline-block;
+    width: 50%;
+}
+input{
+    min-height: 50px;
+    text-align: center;
+    font-size: 1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: inline-block;
+    margin: 5px 30%;
+    border-radius: 5px;
+    background-color: #000000;
+    color: #ffffff;
+}
+::placeholder{
+    color: #ffff00;
+}
+button{
+    display: inline-block;
+    margin: 10px 40%;
+    width: 100px;
+    min-height: 50px;
+    border-radius: 30px;
+    background-color: #006b1e;
+    color: #ffffff;
+}
+textarea{
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #000000;
+    color: #ffffff;
+}
